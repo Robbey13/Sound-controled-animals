@@ -1,0 +1,24 @@
+#instruction {
+    background-color: aqua;
+    color:black
+
+}
+body {
+    background-color: gainsboro;
+}
+
+p {
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.btn btn-info {
+    font-family: sans-serif;
+    
+}
+.copy_right_footer{
+    background-color:dodgerblue;
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+}
